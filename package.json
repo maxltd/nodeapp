@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.0.0",
   "engines": {
-    "node": "16.15.0"
+    "node": "16.x"
   },
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
+    "jade": "^0.29.0",
     "morgan": "~1.9.1"
   }
 }
